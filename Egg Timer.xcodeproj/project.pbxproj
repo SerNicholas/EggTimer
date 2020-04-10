@@ -13,6 +13,7 @@
 		93BDE46D2438D7250028A1FA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93BDE46C2438D7250028A1FA /* ViewController.swift */; };
 		93BDE4702438D7250028A1FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93BDE46E2438D7250028A1FA /* Main.storyboard */; };
 		93BDE4752438D7280028A1FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93BDE4732438D7280028A1FA /* LaunchScreen.storyboard */; };
+		93D2A7A7243F53B9002E38E9 /* service_bell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 93D2A7A6243F53B9002E38E9 /* service_bell.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		93BDE46F2438D7250028A1FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		93BDE4742438D7280028A1FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		93BDE4762438D7280028A1FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93D2A7A6243F53B9002E38E9 /* service_bell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = service_bell.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				93BDE46E2438D7250028A1FA /* Main.storyboard */,
 				93A2AC5524391B8A005CDF6E /* Assets.xcassets */,
 				93BDE4732438D7280028A1FA /* LaunchScreen.storyboard */,
+				93D2A7A6243F53B9002E38E9 /* service_bell.mp3 */,
 				93BDE4762438D7280028A1FA /* Info.plist */,
 			);
 			path = "Egg Timer";
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93BDE4752438D7280028A1FA /* LaunchScreen.storyboard in Resources */,
+				93D2A7A7243F53B9002E38E9 /* service_bell.mp3 in Resources */,
 				93A2AC5624391B8A005CDF6E /* Assets.xcassets in Resources */,
 				93BDE4702438D7250028A1FA /* Main.storyboard in Resources */,
 			);
